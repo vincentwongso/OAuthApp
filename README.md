@@ -1,4 +1,6 @@
 OAuthApp
 ========
+Demonstration of how to secure REST API using OAuth 2 (symfony 3).
 
-A Symfony project created on February 22, 2016, 3:17 pm.
+Bundle used:
+
